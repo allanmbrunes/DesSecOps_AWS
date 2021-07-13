@@ -1,13 +1,14 @@
 # DesSecOps_AWS
 
-
-The setting up of an project with Autoscaling included the AWS CloudFront, AWS CloudWatch and AWS Elastic Beanstalk. A stress test was applied to test the Autoscaling of instances, when the CPU utilization trigger the max limit set up, the CloudWatch takes an action of alert trough SNS and Slack message directly to the DevOps team.  
+The setting up of instances to install automatically a Security Agent through AWS SystemsManager. The Run Command component has been used to install automatically 
 
 ## Table of Contents
 
 - Terraform: main and provider
 - Security agent 
 - Bash commands (Session Manager - AWS)
+- SNS - Amazon Simple Notification Service
+
 
 ## Use Cases
 
