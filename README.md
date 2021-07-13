@@ -5,12 +5,9 @@ The setting up of an project with Autoscaling included the AWS CloudFront, AWS C
 
 ## Table of Contents
 
-- Static Website
-- Python application 
-- requeriments 
-- DynamoDB
-- CloudWatch reports integrated with Slack / SNS
-- Running AWS commands from Slack to E2 instances 
+- Terraform: main and provider
+- Security agent 
+- Bash commands (Session Manager - AWS)
 
 ## Use Cases
 
