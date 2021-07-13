@@ -12,8 +12,7 @@ The setting up of instances to install automatically a Security Agent through AW
 
 ## Use Cases
 
-- Migration of static Websites or Application from on-premisses to AWS Cloud environment. 
-- Cloud project focused on in a situation where the application has required a high demand of CPU and RDS.     
+- Install a security agent specific to the company automatically in all these Instances   
 
 ## Commands
 
