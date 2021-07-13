@@ -1,6 +1,6 @@
 # DesSecOps_AWS
 
-The setting up of instances to install automatically a Security Agent through AWS SystemsManager. The Run Command component has been used to install automatically 
+The setting up of instances to install automatically a Security Agent through AWS SystemsManager. The Run Command component has been used to install automatically this agent and the DevSecOps Engineer will be notified through the Amazon Simple Notification Service.
 
 ## Table of Contents
 
