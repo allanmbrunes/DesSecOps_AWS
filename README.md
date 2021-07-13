@@ -16,9 +16,10 @@ The setting up of instances to install automatically a Security Agent through AW
 
 ## Commands
 
-On Bash file:
-- touch /var/app/file
-- sudo chown -R webapp:webapp /var/app/*
+On Terraform CLI:
+- ./terraforminit
+- ./terraformplan
+- ./terraformapply
 
 ## Appendix:
 ![sns](https://user-images.githubusercontent.com/46986006/125534148-e2b3185a-b964-4f7a-97e3-43f644f9bfec.JPG)
