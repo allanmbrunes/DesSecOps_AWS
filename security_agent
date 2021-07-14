@@ -8,4 +8,4 @@ then
     echo "Usage: $0 status"
 else
     echo "Running."
-fi
+fi 
