@@ -78,4 +78,4 @@ resource "aws_instance" "webserver2" {
   tags = {
     Name = "webserver2"
   }
-}
+} 
